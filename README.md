@@ -1,4 +1,4 @@
-# MERN Lab - Song Collector
+# MERN Lab - Album Collector
 
 For this activity we're going to get a chance to practice taking all the concepts learned today and build out a full stack MERN application. You'll be using React on the frontend, and Express, Node, and Mongo DB on the backend.
 
@@ -39,8 +39,8 @@ A user will be able to visit the app and
   - send JSON for all Albums in your index route
   - send JSON for one Album by its id in your show route
   - create a new Album for your create route
-1. Remember to add cors to your API with the cors middleware. This will allow us to hit the API from the React app.
-1. Test out your API, either in the browser or with Postman
+1. Remember to add cors to your API with the [cors middleware](https://www.npmjs.com/package/cors).This will allow us to hit the API from the React app.
+1. Test out your API, either in the browser or with [Postman](https://www.postman.com/downloads/)
 
 ---
 
