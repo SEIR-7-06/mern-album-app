@@ -10,6 +10,8 @@ Have the app we built out today open and refer back to often as a reference. You
 
 For this activity you're model will be Albums. We'll be storing a collection of your favorite Albums in MongoDB.
 
+![records](./images/records.png)
+
 For each Album you'll store
 - artist (a string)
 - releaseDate (a string, you can also expirement with the date type in mongo and mongoose)
